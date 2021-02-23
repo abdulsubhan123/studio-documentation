@@ -1,8 +1,9 @@
 ---
-id: doc3
-title: Import
-sidebar_label: Import
-slug: /doc3
+id: doc4
+title: Export
+hide_title: true
+sidebar_label: Export
+slug: /doc4
 ---
 
 ## Import a Solution

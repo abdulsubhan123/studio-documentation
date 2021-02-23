@@ -63,7 +63,6 @@ function Feature({imageUrl, title, description}) {
 function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
-  document.logo = "DigitalDots"
   return (
     <Layout
       title={`${siteConfig.title}`}

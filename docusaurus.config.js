@@ -1,13 +1,13 @@
 module.exports = {
   title: 'Digitaldots',
   tagline: 'Digital Platform for an Intuirive Enterprise',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'studio.enterprise.digitaldots.ai',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'digitaldots', // Usually your GitHub org/user name.
+  projectName: 'studio-documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'DigitalDots',
